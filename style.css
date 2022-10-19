@@ -33,4 +33,5 @@ h1{
 
 #menu li{
     list-style:none;
+    float:left;
 } 
