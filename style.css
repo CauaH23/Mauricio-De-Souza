@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    text-align: center;
+}
+img{
+    width: 300px;;
+}
+
+
+p{
+    text-align: justify;
+    margin: 35px;
+
+}
+
+#mau{
+    background: linear-gradient(rgb(58, 3, 58),rgb(60, 9, 60),rgb(104, 10, 104),purple,rgb(193, 18, 193),rgb(213, 119, 213));
+}
+
+
+h1{
+    text-decoration: underline rgb(158, 34, 158) ;
+    text-underline-position: under;
+}
+
+#mau h1{
+    text-decoration: none;
+}
+
+#menu{
+    position: fixed;
+}
+
+#menu li{
+    list-style:none;
+} 
